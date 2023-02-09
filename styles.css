@@ -22,6 +22,12 @@ img {
   width: 10%;
 }
 
+img-parent {
+  margin: 10px;
+  border: 5px solid #555;
+  width: 10%;
+}
+
 .flex {
   display: flex;
   justify-content: center;
@@ -37,4 +43,8 @@ p {
 
 button {
   margin: 20px;
+}
+
+.but{
+    gap: 2em;
 }
